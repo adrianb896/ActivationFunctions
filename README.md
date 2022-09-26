@@ -1,2 +1,2 @@
 # Activation Functions in Python
-# CS 478 Homework 1
+ CS 478 - Homework 1
